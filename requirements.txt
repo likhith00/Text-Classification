@@ -1,0 +1,7 @@
+transformers
+huggingface-hub
+peft
+datasets
+evaluate
+numpy
+torch
